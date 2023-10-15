@@ -1,0 +1,5 @@
+Datasets
+MC1/Models/bert_base_uncased/*
+MC1/Models/distilbert_base_uncased/*
+!MC1/Models/bert_base_uncased/README.md
+!MC1/Models/distilbert_base_uncased/README.md
